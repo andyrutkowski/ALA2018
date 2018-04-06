@@ -1,4 +1,4 @@
-# (Spatial Humanities: Current Status of Academic Libraries)
+# (Understanding and Using Spatial Humanities: Digital Mapping at the Forefront of Scholarly Research)
 
 ---
 layout: default
