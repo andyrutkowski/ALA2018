@@ -11,12 +11,12 @@ Overall goal: Participants will understand necessary skills and innovations avai
 
 * Katherine Hart Weimer
     >Head, Kelley Center for Government Information,
-    >Data and Geospatial Services
-    >Rice University, Fondren Library
+    >Data and Geospatial Services,
+    >Rice University, Fondren Library,
     >Houston, Texas
 
 * Nicole Kong
-    >Assistant Professor, GIS Specialist
+    >Assistant Professor, GIS Specialist,
     >Purdue University Libraries
 
 * Chelcie Juliet Rowell
