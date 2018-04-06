@@ -1,4 +1,4 @@
-### Spatial Humanities: Current Status of Academic Libraries
+# (Spatial Humanities: Current Status of Academic Libraries)
 
 ---
 layout: default
