@@ -1,5 +1,13 @@
 # (Understanding and Using Spatial Humanities: Digital Mapping at the Forefront of Scholarly Research)
 
+Overall goal: Participants will understand necessary skills and innovations available to librarians to successfully guide researchers in spatial humanities. Specifically,
+
+· Gain an understanding of the concept of spatial humanities
+
+· Review examples of successful projects incorporating spatial humanities
+
+· Learn types of services (or models) and resources available to and through academic libraries.
+
 ---
 layout: default
 ---
