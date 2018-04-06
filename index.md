@@ -1,12 +1,17 @@
 # Understanding and Using Spatial Humanities: Digital Mapping at the Forefront of Scholarly Research
 
+### Saturday, June 23, 2018 --- 8:30-10:00 am
+
 Overall goal: Participants will understand necessary skills and innovations available to librarians to successfully guide researchers in spatial humanities. Specifically,
+* Gain an understanding of the concept of spatial humanities
+* Review examples of successful projects incorporating spatial humanities
+* Learn types of services (or models) and resources available to and through academic libraries.
 
-· Gain an understanding of the concept of spatial humanities
+## Speakers
 
-· Review examples of successful projects incorporating spatial humanities
-
-· Learn types of services (or models) and resources available to and through academic libraries.
+* Kathy Weimer at Rice
+* Nicole Kong at Purdue
+* Chelcie Rowell at Boston College
 
 ---
 layout: default
