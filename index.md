@@ -9,7 +9,12 @@ Overall goal: Participants will understand necessary skills and innovations avai
 
 ## Speakers
 
-* Kathy Weimer at Rice
+* Kathy Weimer Katherine Hart Weimer
+    >Head, Kelley Center for Government Information,
+    >Data and Geospatial Services
+    >Rice University, Fondren Library
+    >Houston, Texas
+
 * Nicole Kong at Purdue
 * Chelcie Rowell at Boston College
 
