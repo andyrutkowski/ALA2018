@@ -1,6 +1,6 @@
 # Understanding and Using Spatial Humanities: Digital Mapping at the Forefront of Scholarly Research
 
-### Saturday, June 23, 2018 --- 8:30-10:00 am
+### Saturday, June 23, 2018 --- 8:30-10:00 am, Morial Convention Center, Rm 281-282
 
 Academic librarians are increasingly required to understand and experience in the digital scholarship that supports any scholarly activities conducted in using digital technology. GIS and spatial humanities are part of the digital scholarship that provides dynamic visual impact to the rapidly growing area of digital scholarship.  In meeting the needs of this growing field, librarians need to develop the skills and knowledge to assist researchers in creating successful and insightful projects.  
 
