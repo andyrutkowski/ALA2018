@@ -12,7 +12,7 @@ Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
 
 
 ## Speakers
-<a href="https://github.com/MAGIRT/ALA2018/tree/gh-pages/bios.md">Brief biographies.</a>
+(https://github.com/MAGIRT/ALA2018/tree/gh-pages/bios.md) [Brief biographies]
 
 ### Katherine Hart Weimer 
 
