@@ -27,8 +27,8 @@ Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
 
 ### Nicole Kong
 
-    Assistant Professor of Library Science<br>
-    Purdue University<br>
+    Assistant Professor of Library Science
+    Purdue University
 
 #### Librarian as a Collaborator: Supporting Spatial Humanities Research Projects
 
@@ -36,8 +36,8 @@ At the raise of spatial humanities, library plays an important role in supportin
 
 ### Chelcie Juliet Rowell
 
-    Digital Scholarship Librarian & History Liaison<br>
-    O'Neill Library, Boston College<br>
+    Digital Scholarship Librarian & History Liaison
+    O'Neill Library, Boston College
     
 #### The role of the Subject Librarian in Spatial Humanities
 
