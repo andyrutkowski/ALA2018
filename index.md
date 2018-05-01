@@ -13,22 +13,22 @@ Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
 
 ## Speakers
 
-* Katherine Hart Weimer. 
-    >Head, Kelley Center for Government Information
-    >Data and Geospatial Services
-    >Rice University, Fondren Library
+* Katherine Hart Weimer <br>
+    >Head, Kelley Center for Government Information<br>
+    >Data and Geospatial Services<br>
+    >Rice University, Fondren Library<br>
     >Houston, Texas<br>
 Title of presentation: Spatial Humanities: An Introduction to Space and Place in Digital Scholarship 
  
 
-* Nicole Kong.  
-    >Assistant Professor of Library Science
+* Nicole Kong<br>  
+    >Assistant Professor of Library Science<br>
     >Purdue University<br>
 Title of presentation: Librarian as a Collaborator: Supporting Spatial Humanities Research Projects
     
 
-* Chelcie Juliet Rowell. 
-    >Digital Scholarship Librarian & History Liaison, 
+* Chelcie Juliet Rowell<br>
+    >Digital Scholarship Librarian & History Liaison<br>
     >O'Neill Library, Boston College<br>
 Title of presentation: The role of the Subject Librarian in Spatial Humanities
 
