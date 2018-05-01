@@ -15,10 +15,10 @@ Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
 
 ### Katherine Hart Weimer 
 
-    >Head, Kelley Center for Government Information
-    >Data and Geospatial Services
-    >Rice University, Fondren Library
-    >Houston, Texas
+    Head, Kelley Center for Government Information
+    Data and Geospatial Services
+    Rice University, Fondren Library
+    Houston, Texas
     
 #### Spatial Humanities: An Introduction to Space and Place in Digital Scholarship 
 
