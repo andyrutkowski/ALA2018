@@ -1,93 +1,46 @@
-# The Minimal theme
+# Understanding and Using Spatial Humanities: Digital Mapping at the Forefront of Scholarly Research
 
-[![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+### Saturday, June 23, 2018 --- 8:30-10:00 am, Morial Convention Center, Rm 281-282
 
-*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
+Academic librarians are increasingly required to understand and experience in the digital scholarship that supports any scholarly activities conducted in using digital technology. GIS and spatial humanities are part of the digital scholarship that provides dynamic visual impact to the rapidly growing area of digital scholarship.  In meeting the needs of this growing field, librarians need to develop the skills and knowledge to assist researchers in creating successful and insightful projects.  
 
-![Thumbnail of minimal](thumbnail.png)
+During this session, panel experts will focus on overview of spatial humanities in digital scholarship, the skills and innovations available to librarian to successfully guide researchers in spatial humanities, and challenges that may emerge in spatial humanity practices for various research projects. 
 
-## Usage
+Panelists include Katherine Hart Weimer (Rice University), Nicole Kong (Purdue University) and Chelcie Rowell (Boston College).  Leslie Wagner, Chair of MAGIRT, will act as moderator.  
 
-To use the Minimal theme:
-
-1. Add the following to your site's `_config.yml`:
-
-    ```yml
-    theme: jekyll-theme-minimal
-    ```
-
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
-
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
+Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
 
 
+## Speakers
+<a href="https://github.com/MAGIRT/ALA2018/tree/gh-pages/bios.md">Brief biographies.</a>
 
-## Customizing
+### Katherine Hart Weimer 
 
-### Configuration variables
+    Head, Kelley Center for Government Information
+    Data and Geospatial Services
+    Rice University, Fondren Library
+    Houston, Texas
+    
+#### Spatial Humanities: An Introduction to Space and Place in Digital Scholarship 
 
-Minimal will respect the following variables, if set in your site's `_config.yml`:
 
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
+ 
 
-Additionally, you may choose to set the following optional variables:
+### Nicole Kong
 
-```yml
-logo: [Location of the logo]
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
+    Assistant Professor of Library Science
+    Purdue University
 
-### Stylesheet
+#### Librarian as a Collaborator: Supporting Spatial Humanities Research Projects
 
-If you'd like to add your own custom styles:
+At the raise of spatial humanities, library plays an important role in supporting scholarly research as a centralized place for spatial information, digital mapping, and learning resources. Different with other information, spatial information are usually saved in relatively complicated format, which are difficult to manipulate and requires additional learning curves. This provides challenges for humanities researchers to acquire, use, create, publish, and preserve the spatial information in their “spatial turn” projects. Librarians can collaborate in these cases to integrate the spatial information into the research. In this presentation, I will introduce different ways I have used in collaborations, including integrating spatial information literacy into instruction, assisting digital mapping projects using different tools, and spatial information management and publication support. I will also discuss tips and tricks I have learned that could help to effectively working with the community.    
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
+### Chelcie Juliet Rowell
 
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+    Digital Scholarship Librarian & History Liaison
+    O'Neill Library, Boston College
+    
+#### The role of the Subject Librarian in Spatial Humanities
 
-### Layouts
+Subject librarians engage deeply in the research, teaching, and learning activities of their departments. With the spatial turn, we are increasingly being called upon to participate in the whole lifespan of spatial humanities, from finding raw materials to creating, sustaining, and preserving spatial humanities research. Although I am not a GIS specialist, I have performed many roles in spatial humanities research—including data provider, methods consultant, instructional designer, and cheerleader. During my talk, I will discuss the spectrum of my involvement, as well as how I gained confidence to engage in spatial humanities research.
 
-If you'd like to change the theme's HTML layout:
-
-1. [Copy the original template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-2. Create a file called `/_layouts/default.html` in your site
-3. Paste the default layout content copied in the first step
-4. Customize the layout as you'd like
-
-## Roadmap
-
-See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).
-
-## Project philosophy
-
-The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
-## Contributing
-
-Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
-
-### Previewing the theme locally
-
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
-
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/minimal`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
-
-### Running tests
-
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
