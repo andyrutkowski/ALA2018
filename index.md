@@ -13,7 +13,7 @@ Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
 
 ## Speakers
 
-### Katherine Hart Weimer 
+### Katherine Hart Weimer [ALA2018/bios.md] Brief biography.
 
     Head, Kelley Center for Government Information
     Data and Geospatial Services
