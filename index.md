@@ -12,9 +12,9 @@ Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
 
 
 ## Speakers
+<a href="https://github.com/MAGIRT/ALA2018/tree/gh-pages/bios.md">Brief biographies.</a>
 
 ### Katherine Hart Weimer 
-<a href="https://github.com/MAGIRT/ALA2018/tree/gh-pages/bios.md">Brief biography</a>
 
     Head, Kelley Center for Government Information
     Data and Geospatial Services
