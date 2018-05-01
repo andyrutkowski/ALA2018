@@ -13,7 +13,7 @@ Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
 
 ## Speakers
 
-* Katherine Hart Weimer <br>
+### Katherine Hart Weimer <br>
     >Head, Kelley Center for Government Information<br>
     >Data and Geospatial Services<br>
     >Rice University, Fondren Library<br>
@@ -24,7 +24,7 @@ Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
 
  
 
-* Nicole Kong<br>  
+### Nicole Kong<br>  
     >Assistant Professor of Library Science<br>
     >Purdue University<br>
 
@@ -32,7 +32,7 @@ Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
 
 At the raise of spatial humanities, library plays an important role in supporting scholarly research as a centralized place for spatial information, digital mapping, and learning resources. Different with other information, spatial information are usually saved in relatively complicated format, which are difficult to manipulate and requires additional learning curves. This provides challenges for humanities researchers to acquire, use, create, publish, and preserve the spatial information in their “spatial turn” projects. Librarians can collaborate in these cases to integrate the spatial information into the research. In this presentation, I will introduce different ways I have used in collaborations, including integrating spatial information literacy into instruction, assisting digital mapping projects using different tools, and spatial information management and publication support. I will also discuss tips and tricks I have learned that could help to effectively working with the community.    
 
-* Chelcie Juliet Rowell<br>
+### Chelcie Juliet Rowell<br>
     >Digital Scholarship Librarian & History Liaison<br>
     >O'Neill Library, Boston College<br>
     
