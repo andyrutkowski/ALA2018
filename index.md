@@ -2,10 +2,14 @@
 
 ### Saturday, June 23, 2018 --- 8:30-10:00 am
 
-Overall goal: Participants will understand necessary skills and innovations available to librarians to successfully guide researchers in spatial humanities. Specifically,
-* Gain an understanding of the concept of spatial humanities
-* Review examples of successful projects incorporating spatial humanities
-* Learn types of services (or models) and resources available to and through academic libraries.
+Academic librarians are increasingly required to understand and experience in the digital scholarship that supports any scholarly activities conducted in using digital technology. GIS and spatial humanities are part of the digital scholarship that provides dynamic visual impact to the rapidly growing area of digital scholarship.  In meeting the needs of this growing field, librarians need to develop the skills and knowledge to assist researchers in creating successful and insightful projects.  
+
+During this session, panel experts will focus on overview of spatial humanities in digital scholarship, the skills and innovations available to librarian to successfully guide researchers in spatial humanities, and challenges that may emerge in spatial humanity practices for various research projects. 
+
+Panelists include Katherine Hart Weimer (Rice University), Nicole Kong (Purdue University) and Chelcie Rowell (Boston College).  Leslie Wagner, Chair of MAGIRT, will act as moderator.  
+
+Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
+
 
 ## Speakers
 
