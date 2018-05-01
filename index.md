@@ -18,7 +18,8 @@ Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
     >Data and Geospatial Services<br>
     >Rice University, Fondren Library<br>
     >Houston, Texas<br>
-Title of presentation: Spatial Humanities: An Introduction to Space and Place in Digital Scholarship 
+    
+#### Spatial Humanities: An Introduction to Space and Place in Digital Scholarship 
 
 
  
@@ -26,14 +27,16 @@ Title of presentation: Spatial Humanities: An Introduction to Space and Place in
 * Nicole Kong<br>  
     >Assistant Professor of Library Science<br>
     >Purdue University<br>
-Title of presentation: Librarian as a Collaborator: Supporting Spatial Humanities Research Projects
+
+#### Librarian as a Collaborator: Supporting Spatial Humanities Research Projects
 
 At the raise of spatial humanities, library plays an important role in supporting scholarly research as a centralized place for spatial information, digital mapping, and learning resources. Different with other information, spatial information are usually saved in relatively complicated format, which are difficult to manipulate and requires additional learning curves. This provides challenges for humanities researchers to acquire, use, create, publish, and preserve the spatial information in their “spatial turn” projects. Librarians can collaborate in these cases to integrate the spatial information into the research. In this presentation, I will introduce different ways I have used in collaborations, including integrating spatial information literacy into instruction, assisting digital mapping projects using different tools, and spatial information management and publication support. I will also discuss tips and tricks I have learned that could help to effectively working with the community.    
 
 * Chelcie Juliet Rowell<br>
     >Digital Scholarship Librarian & History Liaison<br>
     >O'Neill Library, Boston College<br>
-Title of presentation: The role of the Subject Librarian in Spatial Humanities
+    
+#### The role of the Subject Librarian in Spatial Humanities
 
 Subject librarians engage deeply in the research, teaching, and learning activities of their departments. With the spatial turn, we are increasingly being called upon to participate in the whole lifespan of spatial humanities, from finding raw materials to creating, sustaining, and preserving spatial humanities research. Although I am not a GIS specialist, I have performed many roles in spatial humanities research—including data provider, methods consultant, instructional designer, and cheerleader. During my talk, I will discuss the spectrum of my involvement, as well as how I gained confidence to engage in spatial humanities research.
 
