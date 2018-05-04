@@ -6,7 +6,7 @@ Academic librarians are increasingly required to understand and experience in th
 
 During this session, panel experts will focus on overview of spatial humanities in digital scholarship, the skills and innovations available to librarian to successfully guide researchers in spatial humanities, and challenges that may emerge in spatial humanity practices for various research projects. 
 
-Panelists include Katherine Hart Weimer (Rice University), Nicole Kong (Purdue University) and Chelcie Rowell (Boston College).  Leslie Wagner, Chair of MAGIRT, will act as moderator.  
+Panelists include Katherine Hart Weimer (Rice University), Nicole Kong (Purdue University) and Chelcie Juliet Rowell (Boston College).  Leslie Wagner, Chair of MAGIRT, will act as moderator.  
 
 Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
 
@@ -23,9 +23,8 @@ Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
     
 #### Spatial Humanities: An Introduction to Space and Place in Digital Scholarship 
 
-
+Ms. Weimer will present an overview of the 'spatial turn' in digital scholarship and how librarians can contribute to scholarly inquiry within a framework of spatial thinking.  She will conclude with a few projects and organizations which focus on these concepts
  
-
 ### Nicole Kong
 
     Assistant Professor of Library Science
