@@ -23,8 +23,7 @@ Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
     
 #### Spatial Humanities: An Introduction to Space and Place in Digital Scholarship 
 
-
- 
+Ms. Weimer will present an overview of the 'spatial turn' in digital scholarship and how librarians can contribute to scholarly inquiry within a framework of spatial thinking.  She will conclude with a few projects and organizations which focus on these concepts. 
 
 ### Nicole Kong
 
