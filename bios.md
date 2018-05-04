@@ -1,5 +1,6 @@
 ### Katherine Hart Weimer
 
+Kathy is is Head of the Kelley Center for Government Information, Data and Geospatial Services at Rice University's Fondren Library.  Her research and work includes a range of maps and geospatial information related topics, including spatial thinking, digital gazetteers, and digitized map collections.  Currently, Kathy is participating in the Mellon supported Linked Data for Libraries (LD4L/LD4P) Cartographic Sub-Group.  Kathy served as Chair of MAGIRT in 2010 and was recipient of the MAGIRT Honors Award in 2016.  She is past co-editor of the Journal of Map and Geography Libraries and co-founder of the Alliance of Digital Humanities Organization's GeoHumanities Special Interest Group.
 
 ### Nicole Kong
 
